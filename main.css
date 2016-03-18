@@ -2,6 +2,7 @@
 width:600px;
     height:auto;
     margin: 0 auto;
+   
 
 }
 #Header {
@@ -22,8 +23,6 @@ padding-left: 10px;
     font-weight: 100;
     margin-top: 80px;
     
-    
-   
 }
 
 #Header p {
@@ -50,13 +49,13 @@ table {
 }
 
 
-#comp  {
+#comp {
 
     position: absolute;
     top:180px;
     z-index: -1;
-}
 
+}
 .row1 p {
     top: 0; 
     right:1em; 
@@ -122,4 +121,17 @@ color:dimgrey;
 .row4 p, .row5 p{
     color:dimgrey;
     
+}
+#box {
+    height:120px;
+    width:600px;
+    background-color: limegreen;
+    
+}
+#box p {
+    font-family: Helvetica, sans-serif;
+    color:snow;
+    font-size: 15px;
+   padding-top: 50px;
+    text-align-last: center;
 }
