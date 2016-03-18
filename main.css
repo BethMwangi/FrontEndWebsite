@@ -103,6 +103,17 @@ font-family: Segoe UI, Helvetica cursive;
 .row3 img {
     height:47px;
     width:47px;
+      
+}
+.row4 {
+    display: table;
+    font-family: Segoe UI, Helvetica cursive;
+}
+.row4 h3{
     
+ 
+}
+.row4 p {
+    color:dimgrey;
     
 }
