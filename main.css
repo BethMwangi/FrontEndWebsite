@@ -1,7 +1,6 @@
 #container {
 width:600px;
     height:auto;
-    background-color: aqua;
 
 }
 #Header {
@@ -9,6 +8,7 @@ width:600px;
 height:150px;
 background-color: black;
 padding-left: 10px;
+    margin-bottom: 10px;
     
     
 }
@@ -20,6 +20,7 @@ padding-left: 10px;
     font-weight: 100;
     margin-top: 90px;
     
+    
    
 }
 
@@ -30,16 +31,30 @@ color: white;
     font-size:14px;
     margin-top: 90px;
     margin-right: 10px;
+    
+    
 
 }
 #MainBody {
     width:600px;
     height:auto;
 }
-.row1 .row2 .row3 .row4 .row5 .row6 .row7{ width:600px;   
+table {
+    border-collapse: separate;
+    border-spacing: 20px 0px;
 }
 
-.row1 img { 
-    width:600px;
-    height: 266px;
+
+#comp  {
+
+    position: absolute;
+    top:180px;
+    z-index: -1;
+}
+
+.row1 p {
+    top: 0; 
+    right:1em; 
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
 }
