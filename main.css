@@ -1,9 +1,8 @@
 #container {
 width:600px;
-    height:auto;
-    margin: 0 auto;
-   
-
+height:auto;
+margin: 0 auto;
+     
 }
 #Header {
 width:600px;
@@ -139,8 +138,26 @@ color:dimgrey;
     padding-top: 50px;
     text-align-last: center;
 }
+.row7 h3 {
+   padding-left: 10px; 
+}
+.row7 p  {
+    padding-left: 10px;
+     color:dimgrey;
+}
 #footer {
 width:600px;
 height:120px;
-    background-color: darkslategray;
+    background-color: black;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#footer span {
+    text-transform: uppercase; 
+    
+}
+#footer p {
+     color:goldenrod;
+    font-family:sans-serif;
 }
