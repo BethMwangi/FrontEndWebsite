@@ -8,8 +8,7 @@ width:600px;
 #Header {
 width:600px;
 height:150px;
-background-color: black;
-padding-left: 10px;
+background-color: black; 
     margin-bottom: 10px;
     margin:0 auto;
     
@@ -43,7 +42,7 @@ color: white;
 table {
     width:600px;
     border-collapse: separate;
-    border-spacing: 20px 0px;
+    border-spacing: 2px 0px;
         justify-content:center;
     
 }
@@ -61,13 +60,16 @@ table {
     right:1em; 
     font-family: Helvetica, Arial, sans-serif;
     font-size: 20px;
+    
 }
 .row2 h4 {
 font-family: Arial, Helvetica, sans-serif;
+padding-left: 10px;
 }
 .row2 p {
     font-family: Arial;
     color: darkgray;
+    padding-left: 10px;
     
 }
 .button {
@@ -115,23 +117,30 @@ color:dimgrey;
    
 }
 .row4 h3, row5 h3{
+    padding-left: 10px;
     
  
 }
 .row4 p, .row5 p{
     color:dimgrey;
-    
+    padding-left: 10px;
 }
 #box {
     height:120px;
     width:600px;
     background-color: limegreen;
+   
     
 }
 #box p {
     font-family: Helvetica, sans-serif;
     color:snow;
     font-size: 15px;
-   padding-top: 50px;
+    padding-top: 50px;
     text-align-last: center;
+}
+#footer {
+width:600px;
+height:120px;
+    background-color: darkslategray;
 }
