@@ -1,0 +1,38 @@
+#container {
+width:600px;
+    height:auto;
+    background-color: aqua;
+
+}
+#Header {
+width:600px;
+height:150px;
+background-color: black;
+padding-left: 10px;
+    
+    
+}
+#Header h1{
+    text-transform: uppercase;
+    font-family: Arial, sans-serif;
+    color:yellow;
+    float: left;
+    font-weight: 100;
+    margin-top: 90px;
+    
+   
+}
+
+#Header p {
+color: white;
+    font-family: cursive;
+    float: right;
+    font-size:14px;
+    margin-top: 90px;
+    margin-right: 10px;
+
+}
+#MainBody {
+    width:600px;
+    height:auto;
+}
