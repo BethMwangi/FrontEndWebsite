@@ -58,3 +58,11 @@ table {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 20px;
 }
+.row2 h4 {
+font-family: Arial, Helvetica, sans-serif;
+}
+.row2 p {
+    font-family: Arial;
+    color: darkgray;
+    
+}
