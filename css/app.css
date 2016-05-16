@@ -119,3 +119,18 @@ h6 {
     font-weight: 400;
     background-color: antiquewhite;
 }
+
+/*row seven ad space*/
+
+.seven {
+    width: 100%;
+    height: 120px;
+    margin-top: 5%;
+    background-color: #00ff68;
+}
+.ad {
+    padding-top: 4%;
+    text-align: center;
+    color: white;
+    font-size: 1.2em;
+}
