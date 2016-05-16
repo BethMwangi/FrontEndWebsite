@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+.container {
+    width: 603px;
+    height: auto;
+    margin: 0 auto;
+}
+.header {
+    width: 100%;
+    height: 200px;
+    background-color: #37383B;
+}
+h1 {
+    padding-top: 40%;
+    text-transform: uppercase;
+    color: #F3D048;
+    font-size: 3em;
+}
+.heading {
+    width: 50%;
+}
+.heading2 {
+    width: 50%;
+    padding-top: 20%;
+}
+p {
+    color: whitesmoke;
+    font-size: 90%;
+}
+span {
+    font-weight: 700;
+}
+
+/*row two with background image */
+
+.two {
+    width: 100%;
+    height: 266px;
+    background-image: url(../img/big_img.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+h4 {
+    color: #3F3F3F;
+    font-size: 130%;
+}
+.soft {
+    color: black;
+}
+p {
+    font-size: 70%;
+    border-top: 1px solid rgba(0, 0, 0, 0.88);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.88);
+}
