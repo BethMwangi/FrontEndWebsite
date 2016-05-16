@@ -41,7 +41,7 @@ span {
     background-image: url(../img/big_img.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    margin-top: 5%;
+    margin-top: 3%;
 }
 h4 {
     color: #3F3F3F;
@@ -58,8 +58,8 @@ p1 {
 
 /*row three with blog-posting */
 
-.blog-post {
-    margin-top: 5%;
+.three {
+    margin-top: 3%;
     padding-top: 5%;
     width: 100%;
     height: 266px;
@@ -74,7 +74,7 @@ p1 {
 .four {
     width: 100%;
     padding-top: 5%;
-    margin-top: 5%;
+    margin-top: 3%;
     height: 250px;
     /*    align-items: center;*/
     background-color: antiquewhite;
@@ -97,7 +97,7 @@ h6 {
     width: 100%;
     height: 300px;
     padding-top: 4%;
-    margin-top: 5%;
+    margin-top: 3%;
     background-color: antiquewhite;
 }
 .aside {
@@ -125,11 +125,10 @@ h6 {
 .seven {
     width: 100%;
     height: 120px;
-    margin-top: 5%;
     background-color: #00ff68;
+    padding-top: 4%;
 }
 .ad {
-    padding-top: 4%;
     text-align: center;
     color: white;
     font-size: 1.2em;
@@ -142,6 +141,22 @@ content only
 .eight {
     width: 100%;
     height: 200px;
-    margin-top: 5%;
     background-color: antiquewhite;
+}
+
+/* row nine with footer content*/
+
+.nine {
+    width: 100%;
+    height: 120px;
+    padding-top: 8%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.22);
+}
+.footer {
+    color: #F3D048;
+    font-size: 80%;
+}
+span {
+    text-transform: uppercase;
 }
