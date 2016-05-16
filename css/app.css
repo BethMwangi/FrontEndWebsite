@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: white;
 }
 .container {
     width: 603px;
@@ -73,13 +73,14 @@ p1 {
 
 .four {
     width: 100%;
-    margin-top: 5%;
     padding-top: 5%;
-    height: 200px;
+    margin-top: 5%;
+    height: 250px;
     /*    align-items: center;*/
     background-color: antiquewhite;
 }
 .ping {
+    height: 200px;
     text-align: center;
 }
 h6 {
@@ -116,4 +117,5 @@ h6 {
     /*    text-align: right;*/
     color: #9f9f9f;
     font-weight: 400;
+    background-color: antiquewhite;
 }
